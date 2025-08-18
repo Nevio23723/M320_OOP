@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nevio\\Desktop\\3. Semester\\M320\\TestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9F3456-5AF3-4834-95D2-0F1C32F7CC5D}|TestSolution\\TestSolution.csproj|c:\\users\\nevio\\desktop\\3. semester\\m320\\testsolution\\testsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F3456-5AF3-4834-95D2-0F1C32F7CC5D}|TestSolution\\TestSolution.csproj|solutionrelative:testsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nevio\\Desktop\\3. Semester\\M320\\TestSolution\\TestSolution\\Program.cs",
+              "RelativeDocumentMoniker": "TestSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\nevio\\Desktop\\3. Semester\\M320\\TestSolution\\TestSolution\\Program.cs",
+              "RelativeToolTip": "TestSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:33:29.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
