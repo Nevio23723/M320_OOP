@@ -1,4 +1,7 @@
-﻿namespace M320
+﻿using System.Runtime.InteropServices;
+using M320;
+
+namespace M320
 {
     internal class Program
     {
@@ -6,27 +9,25 @@
         {
             int a = 2;
             int b = 3;
-            int summe = my_math.Add(a, b);
-            Console.WriteLine($"Summe von {a} und {b} = {summe}");
+            string type = "kgV";
+            Calculate calculate = new Calculate();
+            calculate.addieren(a, b);
+            calculate.groessterGemeinsamerTeiler(a, b);
+            calculate.ggT_rekursiv(a, b);
+            calculate.kleinstesGemeinsamesVielfach(a, b);
+            calculate.zahlEinlesen(b);
+            calculate.ShowResult(type, a, b);
         }
     }
 
 
 
-    internal class Program1
-    {
-            static void Main(string[] args)
-            {
-                int a = 2;
-                int b = 3;
 
-                int ggt = my_math.Calc_ggt(a, b);
-                Console.WriteLine($"Der ggT von {a} und {b} ist: {ggt}");
-            }
-        }
-    }
+}
 
 
 
-   
+
+
+
 
