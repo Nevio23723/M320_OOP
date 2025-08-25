@@ -33,7 +33,7 @@ namespace M320
 
         public void zahlEinlesen(int b)
         {
-            int zahl = my_math.ReadInt(); // Zahl mit deiner Methode einlesen
+            int zahl = my_math.ReadInt(); 
             Console.WriteLine($"Du hast {zahl} eingegeben.");
         }
 
